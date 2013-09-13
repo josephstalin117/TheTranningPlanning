@@ -3,8 +3,8 @@ TheTranningPlanning
 
 
 **author**：  josephstalin chigix  
-**email**:    lyz2356002@gmail.com
-**organization**   ITclub
+**email**:    lyz2356002@gmail.com  
+**organization**   ITclub  
 
 ***
 
